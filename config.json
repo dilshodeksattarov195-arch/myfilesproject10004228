@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authprocess",
+        "uuid": 486220,
+        "checksum": "kwng7o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
